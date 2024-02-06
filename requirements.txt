@@ -1,0 +1,7 @@
+fiftyone
+matplotlib
+torch
+numpy
+scikit-image
+torchvision
+tqdm
