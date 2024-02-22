@@ -1,6 +1,6 @@
 # ImageColorization
 
-**Image Colorization with Pix2Pix Readme**
+**Image Colorization (Implementation of Pix2Pix Paper)**
 
 ---
 **Summary:**
